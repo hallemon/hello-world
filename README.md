@@ -1,5 +1,4 @@
 # hello-world
-This is my first repository!
 
 that's my purse!
 
